@@ -4,4 +4,4 @@ This is a collection of codes which we used to find Optimal SSP two-derivative m
 These matlab codes are based off of David Ketchesons and Zachary Grant routines. 
 
 
-This code evolved from https://github.com/ketch/RK-opt and https://github.com/SSPmethods/SSPMultiStageTwoDerivativeMethods;
+This code evolved from https://github.com/ketch/RK-opt and https://github.com/SSPmethods/SSPMultiStageTwoDerivativeMethods.
