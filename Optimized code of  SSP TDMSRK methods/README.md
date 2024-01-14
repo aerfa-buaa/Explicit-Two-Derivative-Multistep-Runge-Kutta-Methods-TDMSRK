@@ -3,7 +3,7 @@
     Main.m is the main program code.
 %___________________________________________
 
-stage=2;          %Number of Stages
+stage=2;          %Number of Stages    \\
 step=2;            %Number of step
 order=3;           %Number of order
 K=1/sqrt(2);   %Second Derivative Coefficient 
