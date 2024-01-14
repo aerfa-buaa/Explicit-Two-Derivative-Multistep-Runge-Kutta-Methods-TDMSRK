@@ -5,12 +5,12 @@
 __Optimized code of SSP TDMSRK methods:__
 
     # Main.m is the main program code.
-`stage=2;          %Number of Stages `   //
-`step=2;            %Number of step`//
-`order=3;           %Number of order`//
-`K=1/sqrt(2);   %Second Derivative Coefficient `//
-`%The optimization call:`//
-`[X,FVAL,info]=fmincon(@Objective_fun,x0,[],[],[],[],lb,ub,@(x) opt_TDMSRK(x,step,stage,order,K),opts);`//
+`stage=2;          %Number of Stages `  
+`step=2;            %Number of step`  
+`order=3;           %Number of order`  
+`K=1/sqrt(2);   %Second Derivative Coefficient `  
+`%The optimization call:`  
+`[X,FVAL,info]=fmincon(@Objective_fun,x0,[],[],[],[],lb,ub,@(x) opt_TDMSRK(x,step,stage,order,K),opts);`  
 
     # opt_TDMSRK.m is the main optimization process
     # Used by opt_TDMSRK for Objective Function
