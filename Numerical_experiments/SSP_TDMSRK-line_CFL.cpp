@@ -7,7 +7,6 @@
 #include <iterator>
 #include <valarray>
 using namespace std;
-// example:line 3-4-L-W   增加CFL数输出误差   Line Excample-1  精简版本只有1up,2cneter  U_t+U_x=0
 class cfda
 {
 
