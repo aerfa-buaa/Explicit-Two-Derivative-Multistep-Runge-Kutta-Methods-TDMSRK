@@ -6,7 +6,7 @@ This folder is a collection of codes that we used to find Optimal SSP two-deriva
 
     # Main.m is the main program code.
 `stage=2;          %Number of Stages `  
-`step=2;            %Number of step`  
+`step=2;            %Number of steps`  
 `order=3;           %Number of order`  
 `K=1/sqrt(2);   %Second Derivative Coefficient `  
 `%The optimization call:`  
@@ -30,5 +30,5 @@ The TDMSRK_sqp method denotes the p-order TDMSRK scheme with q-step and s-stage.
 
 ## Numerical experiments
 
-
+This folder gives C++ code of numerical verification on linear advection equation and Euler equation.
 
