@@ -1,0 +1,3 @@
+We formulated the search for optimal SSP TDMSRK methods, the objective
+is to find the coefficient matrices T , S and ˆS that maximize the value of SSP
+coefficient C while satisfying the order conditions and SSP conditions.
