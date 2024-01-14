@@ -25,8 +25,8 @@ This code evolved from https://github.com/ketch/RK-opt and https://github.com/SS
 
 ## Data of optimal SSP TDMSRK
 
-This folder gives the optimal coefficient matrices of SSP TDMSRK methods.  
-The TDMSRK_sqp method denotes the p-order TDMSRK scheme with q-step and s-stage.
+This folder gives the optimal coefficient matrices (sqp.mat) of SSP TDMSRK_sqp method,  
+the TDMSRK_sqp method denotes the p-order TDMSRK scheme with q-step and s-stage. 
 
 ## Numerical experiments
 
